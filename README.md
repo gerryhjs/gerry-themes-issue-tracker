@@ -1,6 +1,4 @@
-# gerry-themes-pro-issue
-
-If you have any problem please commit issue here. Thanks.
+If you have any problem about plugins please commit issue here. Thanks.
 
 Gerry Themes: https://plugins.jetbrains.com/plugin/18922-gerry-themes
 
