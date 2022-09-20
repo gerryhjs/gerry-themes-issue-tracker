@@ -1,3 +1,5 @@
+# Gerry Themes Plugin Issue Tracker
+
 I am using Gerry Themes Pro in my daily development, and I'll Continuously improve the themes.
 
 If you have any problem about Gerry Themes or Gerry Themes Pro, please commit issue here. Thanks.
