@@ -2,7 +2,7 @@
 
 * About New UI 
 
-Gerry Themes and Gerry Themes Pro planned to support new UI, but for IDEA 2022.3 EAP New UI is unstable, if there is some problem when using plugin with new UI please change theme to Jetbrains Darcula to check problem again if it's a plugin issue.
+Gerry Themes and Gerry Themes Pro plan to support the new UI, but for IDEA 2022.3 EAP the new UI is not stable, if you have problems with plugins using the new UI, please change the theme to Jetbrains Darcula to double check if it is a plugin issue.
 
 * About color schema
 
