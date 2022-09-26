@@ -4,13 +4,6 @@
 
 Gerry Themes and Gerry Themes Pro plan to support the new UI, but for IDEA 2022.3 EAP the new UI is not stable, if you have problems with plugins using the new UI, please change the theme to Jetbrains Darcula to double check if it is a plugin issue.
 
-Known Issues abou new UI such as:
-
-https://github.com/gerryhjs/gerry-themes-issue-tracker/issues/3
-
-https://github.com/gerryhjs/gerry-themes-issue-tracker/issues/4
-
-
 * About color schema
 
 Gerry Themes and Gerry Themes Pro use contrasting colors for better syntax highlighting, but the color mode may not work for everyone. If you have any suggestions for colors, please feel free to submit an issue and I will consider everyone's ideas if it makes sense.
