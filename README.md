@@ -17,3 +17,7 @@ You can also contact with me by email: gerryhjs@outlook.com
 * About New UI 
 
 Gerry Themes and Gerry Themes Pro planned to support new UI, but for IDEA 2022.3 EAP New UI is unstable, if there is some problem when using plugin with new UI please change theme to Jetbrains Darcula to check problem again if it's a plugin issue.
+
+* About color schema
+
+Gerry Themes and Gerry Themes Pro use contrasting colors for better syntax highlighting, but the color mode may not work for everyone. If you have any suggestions for colors, please feel free to submit an issue and I will consider everyone's ideas if it makes sense.
