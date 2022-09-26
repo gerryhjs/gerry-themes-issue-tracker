@@ -1,4 +1,4 @@
-# Please read before you submit issue:
+# Please read it before you submit issue:
 
 * About New UI 
 
