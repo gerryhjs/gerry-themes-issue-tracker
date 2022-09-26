@@ -12,6 +12,8 @@ Source of Gerry Themes: https://github.com/gerryhjs/gerry-themes
 
 You can also contact with me by email: gerryhjs@outlook.com
 
-# About New UI 
+# Please read before you submit issue:
 
-Gerry Themes and Gerry Themes Pro planned support new UI, but for IDEA 2022.3 EAP New UI is unstable, if there is some problem when using plugin with new UI please change theme to Jetbrains Darcula to check problem again if it's a plugin issue.
+* About New UI 
+
+Gerry Themes and Gerry Themes Pro planned to support new UI, but for IDEA 2022.3 EAP New UI is unstable, if there is some problem when using plugin with new UI please change theme to Jetbrains Darcula to check problem again if it's a plugin issue.
