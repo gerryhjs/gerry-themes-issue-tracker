@@ -19,6 +19,8 @@ Gerry Themes: https://plugins.jetbrains.com/plugin/18922-gerry-themes
 
 Gerry Themes Pro: https://plugins.jetbrains.com/plugin/19668-gerry-themes-pro
 
-Source of Gerry Themes: https://gitee.com/gerryhjs/gerry-themes
+Source of Gerry Themes(github): https://github.com/gerryhjs/gerry-themes
+
+Source of Gerry Themes(gitee): https://gitee.com/gerryhjs/gerry-themes
 
 You can also contact with me by email: gerryhjs@outlook.com
