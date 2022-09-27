@@ -17,11 +17,7 @@ I am using Gerry Themes Pro in my daily development, and I'll Continuously impro
 
 Gerry Themes: https://plugins.jetbrains.com/plugin/18922-gerry-themes
 
-EAP:https://plugins.jetbrains.com/plugin/18922-gerry-themes/versions/eap
-
 Gerry Themes Pro: https://plugins.jetbrains.com/plugin/19668-gerry-themes-pro
-
-EAP:https://plugins.jetbrains.com/plugin/19668-gerry-themes-pro/versions/eap
 
 Source of Gerry Themes(github): https://github.com/gerryhjs/gerry-themes
 
