@@ -12,7 +12,7 @@ Gerry Themes and Gerry Themes Pro use contrasting colors for better syntax highl
 
 * About recommend idea
 
-Collecting New theme ideas for Gerry Themes Pro: https://github.com/gerryhjs/gerry-themes-issue-tracker/issues/7
+Collecting New theme ideas for Gerry Themes Pro: https://github.com/gerryhjs/gerry-themes-issue-tracker/issues/8
 
 # About Gerry Themes Plugin
 
