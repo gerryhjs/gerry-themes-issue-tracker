@@ -1,3 +1,5 @@
+If you have any problem about Gerry Themes or Gerry Themes Pro, please commit issue here. Thanks.
+
 # Please read it before you submit issue:
 
 * About New UI 
@@ -12,9 +14,7 @@ Gerry Themes and Gerry Themes Pro use contrasting colors for better syntax highl
 
 Collecting New theme ideas for Gerry Themes Pro: https://github.com/gerryhjs/gerry-themes-issue-tracker/issues/7
 
-# Gerry Themes Plugin Issue Tracker
-
-If you have any problem about Gerry Themes or Gerry Themes Pro, please commit issue here. Thanks.
+# About Gerry Themes Plugin
 
 I am using Gerry Themes Pro in my daily development, and I'll Continuously improve the themes.
 
