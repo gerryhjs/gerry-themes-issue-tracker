@@ -14,7 +14,7 @@ Some color displays were modified as features, not bugs, such as buttons being c
 
 * About suggestion idea
 
-Once a good suggestion for themes is adopted I will give the issue reporter a free three-months subscription license, and add your name to the special thanks in custom page (of course this depends on your willingness).
+Once a good suggestion for themes is adopted I will give the issue reporter a special discount code as grateful.
 
 
 # About Gerry Themes Plugin
