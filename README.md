@@ -14,7 +14,7 @@ Some color displays were modified as features, not bugs, such as buttons being c
 
 * About recommend idea
 
-Collecting New theme ideas for Gerry Themes Pro: https://github.com/gerryhjs/gerry-themes-issue-tracker/issues/8
+Collecting Theme ideas for Gerry Themes (Pro): https://github.com/gerryhjs/gerry-themes-issue-tracker/issues/8
 
 # About Gerry Themes Plugin
 
