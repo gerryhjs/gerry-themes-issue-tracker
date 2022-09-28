@@ -12,9 +12,10 @@ Gerry Themes and Gerry Themes Pro use contrasting colors for better syntax highl
 
 Some color displays were modified as features, not bugs, such as buttons being changed to outlines with a hollow in the middle. However it is welcome to submit an issue for discussion if you think something is best unmodified.
 
-* About recommend idea
+* About suggestion idea
 
-Collecting Theme ideas for Gerry Themes (Pro): https://github.com/gerryhjs/gerry-themes-issue-tracker/issues/8
+Once a good suggestion for themes is adopted I will give the issue reporter a free three-months subscription license, and add your name to the special thanks in custom page (of course this depends on your willingness).
+
 
 # About Gerry Themes Plugin
 
