@@ -10,6 +10,8 @@ Gerry Themes and Gerry Themes Pro plan to support the new UI, but for IDEA 2022.
 
 Gerry Themes and Gerry Themes Pro use contrasting colors for better syntax highlighting, but the color mode may not work for everyone. If you have any suggestions for colors, please feel free to submit an issue and I will consider everyone's ideas if it makes sense.
 
+Some color displays were modified as features, rather than bugs, such as buttons being changed to outlines with a hollow in the middle. However it is welcome to submit an issue for discussion if you think something is best unmodified.
+
 * About recommend idea
 
 Collecting New theme ideas for Gerry Themes Pro: https://github.com/gerryhjs/gerry-themes-issue-tracker/issues/8
