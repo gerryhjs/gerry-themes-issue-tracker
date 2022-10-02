@@ -12,6 +12,10 @@ Gerry Themes and Gerry Themes Pro use contrasting colors for better syntax highl
 
 Some color displays were modified as features, not bugs, such as buttons being changed to outlines with a hollow in the middle. However it is welcome to submit an issue for discussion if you think something is best unmodified.
 
+* About using with Material Theme UI
+
+I already known the theme plugin maybe have some problem when you work with Matrial Theme UI, but I will try to work and fix it. Here I should Thanks to Elior help.
+
 * About suggestion idea
 
 Once a good suggestion for themes is adopted I will give the issue reporter a special discount code as grateful.
