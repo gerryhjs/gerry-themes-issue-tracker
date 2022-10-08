@@ -1,4 +1,5 @@
-If you have any problem about Gerry Themes or Gerry Themes Pro, please commit issue here. Thanks.
+Important: I am not convience to access to github here in China because sometimes it's blocked, so I will accept issue by email.
+If you have any problem about Gerry Themes or Gerry Themes Pro, please send email to me: gerryhjs@outlook.com. Thanks.
 
 # Please read it before you submit issue:
 
