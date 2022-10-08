@@ -1,6 +1,4 @@
-# Important
-I am inconvenient to use to github here in China because sometimes the access is very slow, and I can't get issues in time.
-And I will also accept issue by email. If you have any problem about Gerry Themes or Gerry Themes Pro, you can send email to me: gerryhjs@outlook.com. Thanks.
+If you have any problem about Gerry Themes or Gerry Themes Pro, you can also send email to me: gerryhjs@outlook.com. Thanks.
 
 # Please read it before you submit issue:
 
