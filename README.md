@@ -1,3 +1,5 @@
+Grry Themes issue tracker and forums has been transfert to slack: https://join.slack.com/t/gerry-themes/shared_invite/zt-1i0x78d01-Usi1aqyPwQU43~ds8TWp1w
+
 If you have any problem about Gerry Themes or Gerry Themes Pro, you can also send email to me: gerryhjs@outlook.com. Thanks.
 
 # Please read it before you submit issue:
