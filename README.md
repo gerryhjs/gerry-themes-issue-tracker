@@ -1,5 +1,3 @@
-Sorry for China here github is sometimes very slow. If you have any problem about Gerry Themes or Gerry Themes Pro, you can also send email to me: gerryhjs@outlook.com. Thanks.
-
 # Please read it before you submit issue:
 
 * About New UI 
